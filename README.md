@@ -11,7 +11,7 @@ cd my-next-app
 
 Inside the folder, edit a file called "page.js" with the following content:
 
-// pages/page.js
+/page.js
 
 function HomePage() {
   return <div>Hello, World!</div>;
