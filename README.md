@@ -14,7 +14,9 @@ Inside the folder, edit a file called "page.js" with the following content:
 /page.js
 
 function HomePage() {
+
   return <div>Hello, World!</div>;
+
 }
 
 export default HomePage;
