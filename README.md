@@ -15,7 +15,7 @@ Inside the folder, edit a file called "page.js" with the following content:
 
 function HomePage() {
 
-  return <div>Hello, World!</div>;
+ # return <div> Hello, World!</div> ;
 
 }
 
