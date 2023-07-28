@@ -26,3 +26,6 @@ To make sure everything is working, run the development server:
 npm run dev
 
 Your Next.js application should now be running locally. Open your web browser and go to http://localhost:3000 to see the "Hello, World!" message.
+
+![alt text](http://https://github.com/BhautikEngineer/next.js/blob/main/hello/Screenshot%202023-07-28%20174332.png)
+
